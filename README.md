@@ -54,6 +54,8 @@
 
 ### Диагностические снимки маршрутизаторов
 
+| Маршрутизатор | Файл | Содержимое |
+|---|---|---|
 | R1 | [`config/router1.md`](config/router1.md) | OSPF-соседство, MPLS forwarding table, running-config |
 | R2 | [`config/router2.md`](config/router2.md) | OSPF-соседство, MPLS forwarding table, running-config |
 | R3 | [`config/router3.md`](config/router3.md) | OSPF-соседство, MPLS forwarding table, running-config |
